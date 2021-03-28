@@ -114,7 +114,7 @@ p,label
 #main-section #main-section-news p
 {
 	background-color: chartreuse;
-	width:1200px;
+	width:800px;
 	text-indent: 60px;
 	padding:20px;
 	box-shadow: 0 0 10px white;
@@ -166,7 +166,8 @@ table
 	font-size: 20px;
 	border-radius: 20px;
 	width:1000px;
-	margin-left: 150px;
+	margin-bottom: 20px;
+	
 }
 #main-section-techniques #techniques a
 {
@@ -174,7 +175,7 @@ table
 	border-radius:20px;
 	background-color:chartreuse;
 	font-size: 20px;
-	width:20px;
+	width:60px;
 	padding: 3px;
 	margin-right: 90px;
 	margin-top:10px;
@@ -205,7 +206,7 @@ table
 {
 	width:600px;
 	height:300px;
-	margin:20px 300px;
+	margin-left:100px;
 	border-radius: 20px;
 	background: linear-gradient(45deg,cyan,white,navy);
 	border:none;
